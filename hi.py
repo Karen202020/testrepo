@@ -1,3 +1,3 @@
-name =input("Enter your name!\n")
-print(name)
+name = raw_input("Enter Name\n")
+print("Hello " + name)
 
